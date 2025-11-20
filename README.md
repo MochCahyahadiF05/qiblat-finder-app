@@ -3,6 +3,7 @@
 Aplikasi pencari arah kiblat dengan kompas digital, dan informasi islami
 
 ---
+
 ## 👨‍💻 Info Mahasiswa
 
 **Nama:** Mochammad Cahyahadi Fadhlurrahman
@@ -15,11 +16,11 @@ Aplikasi pencari arah kiblat dengan kompas digital, dan informasi islami
 
 ### Fitur Utama:
 
-**Splash Screen** 
-**Login & Register** 
-**Kompas Qibla** 
-**Informasi Islami** 
-**About Page** 
+* **Splash Screen**
+* **Login & Register**
+* **Kompas Qibla**
+* **Informasi Islami**
+* **About Page**
 
 ### Teknologi:
 
@@ -35,22 +36,32 @@ Aplikasi pencari arah kiblat dengan kompas digital, dan informasi islami
 qibla_finder_app/
 ├── android/
 │   └── app/src/main/
-│       └── AndroidManifest.xml        ← Update file ini
+│       └── AndroidManifest.xml        
 ├── lib/
-│   ├── main.dart                      ← Entry point
+│   ├── main.dart                      
 │   └── pages/
-│       ├── splash_page.dart           ← Splash screen
-│       ├── login_page.dart            ← Login page
-│       ├── register_page.dart         ← Register page
-│       ├── main_page.dart             ← Main navigation
-│       ├── home_page.dart             ← Qibla compass
-│       ├── info_page.dart             ← Islamic info
-│       └── about_page.dart            ← About page
-├── pubspec.yaml                       ← Dependencies
+│       ├── splash_page.dart           
+│       ├── login_page.dart            
+│       ├── register_page.dart         
+│       ├── main_page.dart             
+│       ├── home_page.dart             
+│       ├── info_page.dart             
+│       └── about_page.dart            
+├── pubspec.yaml                       
 └── README.md
 ```
 
+---
+
 ## 👨‍💻 Gambar
 
+Tambahkan gambar dengan format berikut:
+
+```
+![Nama Gambar](assets/images/contoh.png)
+```
+
+
+---
 
 **Selamat mencoba! 🎉**
