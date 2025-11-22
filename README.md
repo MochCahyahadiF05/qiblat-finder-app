@@ -59,19 +59,19 @@ Tambahkan gambar dengan format berikut:
 
 <table>
   <tr>
-    <td><img src="assets/img/splash.jpeg" width="200"></td>
-    <td><img src="assets/img/login.jpeg" width="200"></td>
-    <td><img src="assets/img/daftar.jpeg" width="200"></td>
+    <td><img src="assets/img/splash.jpeg" width="300"></td>
+    <td><img src="assets/img/login.jpeg" width="300"></td>
+    <td><img src="assets/img/daftar.jpeg" width="300"></td>
   </tr>
   <tr>
-    <td><img src="assets/img/home.jpeg" width="200"></td>
-    <td><img src="assets/img/info.jpeg" width="200"></td>
-    <td><img src="assets/img/about.jpeg" width="200"></td>
+    <td><img src="assets/img/tidak-mengarah-ke-kiblat.jpeg" width="300"></td>
+    <td><img src="assets/img/menghadap-kiblat.jpeg" width="300"></td>
+    <td><img src="assets/img/info.jpeg" width="300"></td>
   </tr>
   <tr>
-    <td><img src="assets/img/qibla1.jpeg" width="200"></td>
-    <td><img src="assets/img/qibla2.jpeg" width="200"></td>
-    <td><img src="assets/img/qibla3.jpeg" width="200"></td>
+    <td><img src="assets/img/qibla1.jpeg" width="300"></td>
+    <td><img src="assets/img/about.jpeg" width="300"></td>
+    <td><img src="assets/img/qibla3.jpeg" width="300"></td>
   </tr>
 </table>
 
