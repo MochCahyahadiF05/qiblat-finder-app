@@ -57,8 +57,23 @@ qibla_finder_app/
 
 Tambahkan gambar dengan format berikut:
 
-![Nama Gambar](assets/img/splash.jpeg)
-![Nama Gambar](assets/img/login.jpeg)
-![Nama Gambar](assets/img/daftar.jpeg)
+<table>
+  <tr>
+    <td><img src="assets/img/splash.jpeg" width="200"></td>
+    <td><img src="assets/img/login.jpeg" width="200"></td>
+    <td><img src="assets/img/daftar.jpeg" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/home.jpeg" width="200"></td>
+    <td><img src="assets/img/info.jpeg" width="200"></td>
+    <td><img src="assets/img/about.jpeg" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/qibla1.jpeg" width="200"></td>
+    <td><img src="assets/img/qibla2.jpeg" width="200"></td>
+    <td><img src="assets/img/qibla3.jpeg" width="200"></td>
+  </tr>
+</table>
+
 
 
