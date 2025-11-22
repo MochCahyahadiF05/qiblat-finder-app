@@ -69,9 +69,7 @@ Tambahkan gambar dengan format berikut:
     <td><img src="assets/img/info.jpeg" width="300"></td>
   </tr>
   <tr>
-    <td><img src="assets/img/qibla1.jpeg" width="300"></td>
-    <td><img src="assets/img/about.jpeg" width="300"></td>
-    <td><img src="assets/img/qibla3.jpeg" width="300"></td>
+    <td colspan="3" align="center"><img src="assets/img/about.jpeg" width="300"></td>
   </tr>
 </table>
 
