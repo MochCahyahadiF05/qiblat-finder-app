@@ -74,15 +74,15 @@ class AboutPage extends StatelessWidget {
                 children: [
                   _buildInfoCard(
                     icon: Icons.person,
-                    title: 'Nama Mahasiswa',
-                    content: 'Cahyahadi',
+                    title: 'Nama',
+                    content: 'Mochammad Cahyahadi Fadhlurrahman',
                     color: Colors.blue,
                   ),
                   const SizedBox(height: 16),
                   _buildInfoCard(
                     icon: Icons.badge,
-                    title: 'NPM',
-                    content: '123456789',
+                    title: 'NIM',
+                    content: '23552011347',
                     color: Colors.orange,
                   ),
                   const SizedBox(height: 16),
@@ -97,7 +97,7 @@ class AboutPage extends StatelessWidget {
                   _buildInfoCard(
                     icon: Icons.code,
                     title: 'Teknologi',
-                    content: 'Flutter, Dart, Flutter Qiblah, Geolocator',
+                    content: 'Flutter Qiblah, Geolocator',
                     color: Colors.purple,
                   ),
                   const SizedBox(height: 32),
@@ -125,7 +125,7 @@ class AboutPage extends StatelessWidget {
                         ),
                         const SizedBox(height: 4),
                         Text(
-                          'Qibla Finder App',
+                          'Mochammad Cahyahadi Fadhlurrahman',
                           style: TextStyle(
                             fontSize: 12,
                             color: Colors.grey[600],

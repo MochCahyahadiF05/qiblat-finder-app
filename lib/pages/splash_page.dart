@@ -45,7 +45,7 @@ class _SplashPageState extends State<SplashPage> {
             ),
             const SizedBox(height: 10),
             const Text(
-              'Find Your Direction to Mecca',
+              'Menemukan arah kiblat dengan mudah',
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.white70,

@@ -70,14 +70,6 @@ class _RegisterPageState extends State<RegisterPage> {
                       color: Colors.green[700],
                     ),
                   ),
-                  const SizedBox(height: 10),
-                  Text(
-                    'Daftar untuk memulai',
-                    style: TextStyle(
-                      fontSize: 16,
-                      color: Colors.grey[600],
-                    ),
-                  ),
                   const SizedBox(height: 40),
                   TextFormField(
                     controller: _nameController,
