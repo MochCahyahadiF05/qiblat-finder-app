@@ -57,13 +57,8 @@ qibla_finder_app/
 
 Tambahkan gambar dengan format berikut:
 
-```
 ![Nama Gambar](assets/img/splash.jpeg)
 ![Nama Gambar](assets/img/login.jpeg)
 ![Nama Gambar](assets/img/daftar.jpeg)
-```
 
 
----
-
-**Selamat mencoba! 🎉**
