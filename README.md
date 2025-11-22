@@ -6,9 +6,9 @@ Aplikasi pencari arah kiblat dengan kompas digital, dan informasi islami
 
 ## 👨‍💻 Info Mahasiswa
 
-**Nama:** Mochammad Cahyahadi Fadhlurrahman
-**NPM:** 23552011347
-**Kelas:** TIF RP 23 CID A
+<b>Nama:</b> Mochammad Cahyahadi Fadhlurrahman<br>
+<b>NIM:</b> 23552011347<br>
+<b>Kelas:</b> TIF RP 23 CID A<br>
 
 ---
 
