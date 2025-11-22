@@ -55,7 +55,7 @@ qibla_finder_app/
 
 ## 👨‍💻 Gambar
 
-Tambahkan gambar dengan format berikut:
+Gambar:
 
 <table>
   <tr>
